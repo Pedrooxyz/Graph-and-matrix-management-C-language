@@ -7,6 +7,8 @@ I was asked to create a solution capable of creating and manipulating graphs, al
 # Objectives
 The main objective of this work was to improve the understanding of advanced data structures through practice, particularly exploring the development and management of graphs. To achieve this goal, the following concrete objectives were defined: defining and implementing data structures, developing functions, loading graphs from files, finding paths, calculating sums of paths and identifying paths.
 
+# Report Review
+
 ## C Language
 
 The C programming language is a high-level language, just like PASCAL, COBOL, BASIC, etc. "As for C, what area of development is it intended for? The answer is - none in particular. It is what is usually called general purpose, and this is one of its great advantages, as it adapts to the development of any project, such as operating systems, graphic interfaces, log processing, etc. Incredibly, C is also used to write the compilers for other languages" [1].
